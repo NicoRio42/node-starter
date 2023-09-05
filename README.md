@@ -3,7 +3,7 @@
 To start a new project, copy this repo in an empty directory:
 
 ```sh
-npx degit toto
+npx degit https://github.com/NicoRio42/node-starter.git
 ```
 
 ```sh
